@@ -19,7 +19,7 @@
 
 - **邮箱**　[ChanYikLamNiko@outlook.com](mailto:ChanYikLamNiko@outlook.com)
 - **CNB**　[cnb.cool/u/ChanYikLam](https://cnb.cool/u/ChanYikLam)
-- **组织**　GDMU-NA 网络协会 · [gdmuna.com](https://gdmuna.com)
+- **组织**　GDMU-NA 网络协会 · [im.gdmuna.com](https://im.gdmuna.com)
 
 ![联系方式](https://cnb.cool/YukinoNO1/profile/-/git/raw/main/assets/png/bauhaus-footer.png)
 

@@ -25,8 +25,8 @@ CONFIG = {
     "school_line": "广东医科大学 · 生物医学工程学院 · 2025 级",
     "role_chip": "GDMU-NA 网络协会 · 会长",
     "email": "ChanYikLamNiko@outlook.com",
-    "links": ["CNB · cnb.cool/u/ChanYikLam", "GDMU-NA 网络协会 · gdmuna.com",
-              "GUANGDONG MEDICAL UNIVERSITY"],
+    "links": ["CNB · cnb.cool/u/ChanYikLam", "GDMU-NA 网络协会 · im.gdmuna.com",
+              "广东医科大学"],
     # 技能卡：两张色块卡，每张最多 3~4 行
     "cards": [
         {
@@ -220,10 +220,11 @@ def build_footer():
         text(72, 128, c["email"], 32, "WHITE", 700, 0.5),
         line(72, 164, 1092, 164, "WHITE", 1, opacity=0.22),
     ]
-    xs = [72, 420, 760]
+    # 三条链接的 x 由实测宽度定：323.5 / 399.4 / 135.0（22px, ls .5），间距 44
+    xs = [72, 440, 884]
     for i, s in enumerate(c["links"]):
         if i < len(xs):
-            b.append(text(xs[i], 200, s, 19, "WHITE", 400, 0.5, opacity=0.8))
+            b.append(text(xs[i], 200, s, 22, "WHITE", 400, 0.5, opacity=0.8))
     b += [
         circle(1190, 100, 54, "BLUE"),
         rect(1265, 45, 56, 56, "YELLOW"),
