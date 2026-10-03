@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="230" viewBox="0 0 1400 230" role="img">
+  <rect x="0" y="0" width="1400" height="230" fill="#111111"/>
+  <rect x="72" y="52" width="14" height="14" fill="#F5C518"/>
+  <text x="100" y="66" font-family="Futura, 'Avenir Next', 'Century Gothic', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif" font-size="16" font-weight="500" fill="#FFFFFF" letter-spacing="5" opacity="0.75">CONTACT / 联系</text>
+  <text x="72" y="128" font-family="Futura, 'Avenir Next', 'Century Gothic', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif" font-size="32" font-weight="700" fill="#FFFFFF" letter-spacing="0.5">ChanYikLamNiko@outlook.com</text>
+  <line x1="72" y1="164" x2="1092" y2="164" stroke="#FFFFFF" stroke-width="1" opacity="0.22"/>
+  <text x="72" y="200" font-family="Futura, 'Avenir Next', 'Century Gothic', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif" font-size="19" font-weight="400" fill="#FFFFFF" letter-spacing="0.5" opacity="0.8">CNB · cnb.cool/u/ChanYikLam</text>
+  <text x="420" y="200" font-family="Futura, 'Avenir Next', 'Century Gothic', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif" font-size="19" font-weight="400" fill="#FFFFFF" letter-spacing="0.5" opacity="0.8">GDMU-NA 网络协会 · gdmuna.com</text>
+  <text x="760" y="200" font-family="Futura, 'Avenir Next', 'Century Gothic', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif" font-size="19" font-weight="400" fill="#FFFFFF" letter-spacing="0.5" opacity="0.8">GUANGDONG MEDICAL UNIVERSITY</text>
+  <circle cx="1190" cy="100" r="54" fill="#1B3FCB"/>
+  <rect x="1265" y="45" width="56" height="56" fill="#F5C518"/>
+  <polygon points="1280,230 1400,230 1400,118" fill="#E23A2E"/>
+</svg>

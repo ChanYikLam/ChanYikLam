@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="600" viewBox="0 0 1400 600" role="img">
+  <rect x="0" y="0" width="1400" height="600" fill="#F2EFE6"/>
+  <rect x="40" y="40" width="640" height="460" fill="#1B3FCB"/>
+  <text x="88" y="150" font-family="Futura, 'Avenir Next', 'Century Gothic', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif" font-size="92" font-weight="700" fill="#FFFFFF" opacity="0.28">01</text>
+  <text x="88" y="226" font-family="Futura, 'Avenir Next', 'Century Gothic', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif" font-size="48" font-weight="700" fill="#FFFFFF">前端开发</text>
+  <text x="88" y="262" font-family="Futura, 'Avenir Next', 'Century Gothic', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif" font-size="16" font-weight="500" fill="#FFFFFF" letter-spacing="4" opacity="0.85">FRONTEND ENGINEERING</text>
+  <line x1="88" y1="292" x2="632" y2="292" stroke="#FFFFFF" stroke-width="2" opacity="0.5"/>
+  <text x="88" y="352" font-family="Futura, 'Avenir Next', 'Century Gothic', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif" font-size="31" font-weight="600" fill="#FFFFFF">Vue.js</text>
+  <text x="534" y="352" font-family="Futura, 'Avenir Next', 'Century Gothic', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif" font-size="22" font-weight="500" fill="#FFFFFF" letter-spacing="2" text-anchor="end" opacity="0.9">熟练</text>
+  <rect x="556" y="332" width="20" height="20" fill="#FFFFFF"/>
+  <rect x="584" y="332" width="20" height="20" fill="#FFFFFF"/>
+  <rect x="612" y="332" width="20" height="20" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+  <text x="88" y="410" font-family="Futura, 'Avenir Next', 'Century Gothic', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif" font-size="31" font-weight="600" fill="#FFFFFF">React</text>
+  <text x="534" y="410" font-family="Futura, 'Avenir Next', 'Century Gothic', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif" font-size="22" font-weight="500" fill="#FFFFFF" letter-spacing="2" text-anchor="end" opacity="0.9">熟练</text>
+  <rect x="556" y="390" width="20" height="20" fill="#FFFFFF"/>
+  <rect x="584" y="390" width="20" height="20" fill="#FFFFFF"/>
+  <rect x="612" y="390" width="20" height="20" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+  <text x="88" y="468" font-family="Futura, 'Avenir Next', 'Century Gothic', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif" font-size="31" font-weight="600" fill="#FFFFFF">Tailwind CSS</text>
+  <text x="534" y="468" font-family="Futura, 'Avenir Next', 'Century Gothic', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif" font-size="22" font-weight="500" fill="#FFFFFF" letter-spacing="2" text-anchor="end" opacity="0.9">熟练</text>
+  <rect x="556" y="448" width="20" height="20" fill="#FFFFFF"/>
+  <rect x="584" y="448" width="20" height="20" fill="#FFFFFF"/>
+  <rect x="612" y="448" width="20" height="20" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+  <rect x="720" y="40" width="640" height="460" fill="#F5C518"/>
+  <text x="768" y="150" font-family="Futura, 'Avenir Next', 'Century Gothic', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif" font-size="92" font-weight="700" fill="#111111" opacity="0.28">02</text>
+  <text x="768" y="226" font-family="Futura, 'Avenir Next', 'Century Gothic', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif" font-size="48" font-weight="700" fill="#111111">AI 与大模型应用</text>
+  <text x="768" y="262" font-family="Futura, 'Avenir Next', 'Century Gothic', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif" font-size="16" font-weight="500" fill="#111111" letter-spacing="4" opacity="0.85">AI / LLM APPLICATION</text>
+  <line x1="768" y1="292" x2="1312" y2="292" stroke="#111111" stroke-width="2" opacity="0.5"/>
+  <text x="768" y="352" font-family="Futura, 'Avenir Next', 'Century Gothic', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif" font-size="31" font-weight="600" fill="#111111">RAG 检索增强</text>
+  <text x="1214" y="352" font-family="Futura, 'Avenir Next', 'Century Gothic', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif" font-size="22" font-weight="500" fill="#111111" letter-spacing="2" text-anchor="end" opacity="0.9">熟练</text>
+  <rect x="1236" y="332" width="20" height="20" fill="#111111"/>
+  <rect x="1264" y="332" width="20" height="20" fill="#111111"/>
+  <rect x="1292" y="332" width="20" height="20" fill="none" stroke="#111111" stroke-width="2"/>
+  <text x="768" y="410" font-family="Futura, 'Avenir Next', 'Century Gothic', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif" font-size="31" font-weight="600" fill="#111111">Agent 智能体</text>
+  <text x="1214" y="410" font-family="Futura, 'Avenir Next', 'Century Gothic', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif" font-size="22" font-weight="500" fill="#111111" letter-spacing="2" text-anchor="end" opacity="0.9">熟练</text>
+  <rect x="1236" y="390" width="20" height="20" fill="#111111"/>
+  <rect x="1264" y="390" width="20" height="20" fill="#111111"/>
+  <rect x="1292" y="390" width="20" height="20" fill="none" stroke="#111111" stroke-width="2"/>
+  <text x="768" y="468" font-family="Futura, 'Avenir Next', 'Century Gothic', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif" font-size="31" font-weight="600" fill="#111111">提示词工程</text>
+  <text x="1214" y="468" font-family="Futura, 'Avenir Next', 'Century Gothic', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif" font-size="22" font-weight="500" fill="#111111" letter-spacing="2" text-anchor="end" opacity="0.9">熟练</text>
+  <rect x="1236" y="448" width="20" height="20" fill="#111111"/>
+  <rect x="1264" y="448" width="20" height="20" fill="#111111"/>
+  <rect x="1292" y="448" width="20" height="20" fill="none" stroke="#111111" stroke-width="2"/>
+  <rect x="40" y="524" width="1320" height="52" fill="#111111"/>
+  <text x="72" y="557" font-family="Futura, 'Avenir Next', 'Century Gothic', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif" font-size="16" font-weight="500" fill="#FFFFFF" letter-spacing="3" opacity="0.7">熟练度 LEVEL</text>
+  <rect x="320" y="540" width="16" height="16" fill="#FFFFFF"/>
+  <rect x="344" y="540" width="16" height="16" fill="#FFFFFF"/>
+  <rect x="368" y="540" width="16" height="16" fill="#FFFFFF"/>
+  <text x="416" y="556" font-family="Futura, 'Avenir Next', 'Century Gothic', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif" font-size="19" font-weight="500" fill="#FFFFFF" letter-spacing="1">精通</text>
+  <rect x="570" y="540" width="16" height="16" fill="#FFFFFF"/>
+  <rect x="594" y="540" width="16" height="16" fill="#FFFFFF"/>
+  <rect x="618" y="540" width="16" height="16" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+  <text x="666" y="556" font-family="Futura, 'Avenir Next', 'Century Gothic', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif" font-size="19" font-weight="500" fill="#FFFFFF" letter-spacing="1">熟练</text>
+  <rect x="820" y="540" width="16" height="16" fill="#FFFFFF"/>
+  <rect x="844" y="540" width="16" height="16" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+  <rect x="868" y="540" width="16" height="16" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+  <text x="916" y="556" font-family="Futura, 'Avenir Next', 'Century Gothic', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif" font-size="19" font-weight="500" fill="#FFFFFF" letter-spacing="1">了解</text>
+</svg>

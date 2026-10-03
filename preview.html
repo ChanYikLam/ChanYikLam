@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>预览 · CNB 主页 README（包豪斯）</title>
+<style>
+  :root{
+    --bg:#ffffff; --fg:#1f2328; --muted:#6b7280; --line:#e5e7eb;
+    --link:#1B3FCB; --quote:#f3f4f6;
+  }
+  html.dark{
+    --bg:#16181d; --fg:#e6e6e6; --muted:#9aa0a6; --line:#2c2f36;
+    --link:#7c9bff; --quote:#1e2127;
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0; background:var(--bg); color:var(--fg);
+    font:16px/1.75 "Futura","Avenir Next","PingFang SC","Hiragino Sans GB","Microsoft YaHei",Arial,sans-serif;
+    transition:background .2s,color .2s;
+  }
+  .bar{
+    position:sticky; top:0; z-index:9; display:flex; align-items:center; gap:12px;
+    padding:10px 20px; background:var(--bg); border-bottom:1px solid var(--line);
+    font-size:13px; letter-spacing:.5px;
+  }
+  .bar b{font-weight:700}
+  .bar .dot{width:10px;height:10px;border-radius:0}
+  .bar .d1{background:#E23A2E}.bar .d2{background:#F5C518}.bar .d3{background:#1B3FCB}
+  .bar button{
+    margin-left:auto; padding:6px 14px; border:1px solid var(--line); background:transparent;
+    color:var(--fg); cursor:pointer; font:inherit; font-size:13px; letter-spacing:1px;
+  }
+  .wrap{max-width:900px;margin:0 auto;padding:28px 20px 80px}
+  .hint{
+    max-width:900px;margin:20px auto 0;padding:12px 16px;border-left:4px solid #F5C518;
+    background:var(--quote); font-size:13px; color:var(--muted)
+  }
+  img{max-width:100%;height:auto;display:block;margin:18px 0}
+  h2{font-size:22px;margin:34px 0 12px;letter-spacing:.5px}
+  ul{padding-left:22px}
+  li{margin:6px 0}
+  a{color:var(--link)}
+  blockquote{
+    margin:18px 0;padding:10px 16px;background:var(--quote);
+    border-left:4px solid #1B3FCB;color:var(--muted)
+  }
+  em{color:var(--muted);font-size:13px;letter-spacing:.4px}
+  .fine{margin-top:40px;padding-top:14px;border-top:1px solid var(--line);font-size:12px;color:var(--muted)}
+</style>
+</head>
+<body>
+<div class="bar">
+  <span class="dot d1"></span><span class="dot d2"></span><span class="dot d3"></span>
+  <b>CNB 主页 README 预览</b><span style="color:var(--muted)">cnb.cool/u/ChanYikLam</span>
+  <button id="t">切换深色 / 浅色</button>
+</div>
+<div class="hint">
+  这是离线预览：和 CNB 个人主页上渲染出来的内容一致（图片走本地文件）。
+  实际上线时 README 里的图片地址会换成 CNB 仓库的绝对 raw 地址。
+</div>
+
+<div class="wrap">
+  <img src="assets/png/bauhaus-hero.png" alt="CHANYIKLAM · 包豪斯主页横幅">
+
+  <h2>■ 01 · 关于 / ABOUT</h2>
+  <ul>
+    <li><b>■ 学校</b> 广东医科大学 · 生物医学工程学院</li>
+    <li><b>▲ 专业</b> 数据科学与大数据技术 · 2025 级</li>
+    <li><b>● 身份</b> GDMU-NA 网络协会 · 会长</li>
+  </ul>
+  <blockquote>Form follows function. —— 三原色、几何形、网格，把主页也当成一张包豪斯海报来做。</blockquote>
+
+  <h2>■ 02 · 技能 / SKILLS</h2>
+  <img src="assets/png/bauhaus-skills.png" alt="技能卡：前端开发 / AI 与大模型应用">
+  <ul>
+    <li><b>■ 前端开发</b>　Vue.js · React · Tailwind CSS　—— 熟练</li>
+    <li><b>▲ AI 与大模型应用</b>　RAG 检索增强 · Agent 智能体 · 提示词工程　—— 熟练</li>
+  </ul>
+
+  <h2>■ 03 · 联系 / CONTACT</h2>
+  <ul>
+    <li><b>邮箱</b>　<a href="mailto:ChanYikLamNiko@outlook.com">ChanYikLamNiko@outlook.com</a></li>
+    <li><b>CNB</b>　<a href="https://cnb.cool/u/ChanYikLam">cnb.cool/u/ChanYikLam</a></li>
+    <li><b>组织</b>　GDMU-NA 网络协会 · <a href="https://gdmuna.com">gdmuna.com</a></li>
+  </ul>
+  <img src="assets/png/bauhaus-footer.png" alt="联系方式">
+
+  <p><em>Bauhaus style · 红 / 黄 / 蓝 三原色 · 圆 / 方 / 三角 三原形 · Designed on CNB</em></p>
+
+  <div class="fine">
+    字体：Futura / Avenir Next + PingFang SC。图片已经烘成 2 倍图，任何设备上版式都一致。
+  </div>
+</div>
+
+<script>
+  document.getElementById('t').addEventListener('click', function () {
+    document.documentElement.classList.toggle('dark');
+  });
+</script>
+</body>
+</html>

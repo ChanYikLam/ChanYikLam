@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="440" viewBox="0 0 1400 440" role="img">
+  <rect x="0" y="0" width="1400" height="440" fill="#F2EFE6"/>
+  <rect x="860" y="0" width="504" height="440" fill="#FFFFFF"/>
+  <rect x="1364" y="0" width="36" height="440" fill="#111111"/>
+  <rect x="980" y="250" width="160" height="160" fill="#E23A2E"/>
+  <circle cx="1140" cy="165" r="115" fill="#1B3FCB"/>
+  <polygon points="1250,440 1364,440 1364,300" fill="#F5C518"/>
+  <rect x="1275" y="45" width="52" height="52" fill="#111111"/>
+  <line x1="860" y1="165" x2="1015" y2="165" stroke="#111111" stroke-width="2"/>
+  <rect x="0" y="0" width="16" height="440" fill="#111111"/>
+  <text x="72" y="96" font-family="Futura, 'Avenir Next', 'Century Gothic', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif" font-size="18" font-weight="500" fill="#111111" letter-spacing="5">CNB.COOL / PROFILE</text>
+  <rect x="72" y="112" width="84" height="7" fill="#F5C518"/>
+  <text x="66" y="234" font-family="Futura, 'Avenir Next', 'Century Gothic', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif" font-size="88" font-weight="700" fill="#111111" letter-spacing="1">CHANYIKLAM</text>
+  <text x="72" y="288" font-family="Futura, 'Avenir Next', 'Century Gothic', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif" font-size="32" font-weight="700" fill="#111111">数据科学与大数据技术</text>
+  <text x="72" y="326" font-family="Futura, 'Avenir Next', 'Century Gothic', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif" font-size="20" font-weight="400" fill="#7A766C">广东医科大学 · 生物医学工程学院 · 2025 级</text>
+  <text x="72" y="358" font-family="Futura, 'Avenir Next', 'Century Gothic', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif" font-size="15" font-weight="500" fill="#7A766C" letter-spacing="2.5">DATA SCIENCE &amp; BIG DATA ENGINEERING · GDMU</text>
+  <rect x="72" y="378" width="320" height="38" fill="#1B3FCB"/>
+  <text x="90" y="404" font-family="Futura, 'Avenir Next', 'Century Gothic', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif" font-size="19" font-weight="500" fill="#FFFFFF" letter-spacing="0.5">GDMU-NA 网络协会 · 会长</text>
+</svg>

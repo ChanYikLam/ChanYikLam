@@ -1,0 +1,22 @@
+# 可选：把仓库页的按钮文案也换成包豪斯口吻
+# 用法：复制到仓库根目录的 .cnb/settings.yml 再推送即可生效。
+# 文档：https://docs.cnb.cool/zh/repo/settings.html
+
+workspace:
+  launch:
+    button:
+      name: 启动云原生开发
+      description: 红黄蓝三原色，开工。
+    cpus: 4
+
+issue:
+  button:
+    description: 少即是多，但 Bug 要说清楚。
+
+fork:
+  button:
+    description: 形式追随功能，功能追随你的 Fork。
+
+copyRepo:
+  button:
+    description: 抄作业也是一种学习。
